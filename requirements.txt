@@ -2,3 +2,4 @@ fastapi
 opencv-python-headless
 numpy 
 python-multipart
+uvicorn
