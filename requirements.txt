@@ -1,4 +1,3 @@
 fastapi
 opencv-python
 numpy 
-os
